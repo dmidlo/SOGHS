@@ -410,3 +410,32 @@ If `hmac` is included, it must specify:
 CRUX is the lens.  
 The digest is the **anchor**.  
 The HMAC is the **seal**.
+
+==================================================================================================
+* * *
+
+### 🔜 Extensions (Reserved)
+
+*   `CRUX-IDXS`: Signed CRUX mark w/ trust chain
+    
+*   `CRUX-IDXD`: Diff comparison between CRUX-IDX pairs
+    
+*   `CRUX-IDXP`: Portable projection schema libraries
+    
+*   `CRUX-IDXR`: CRUX mark registry with type mappings
+    
+
+* * *
+
+### 📘 Summary
+
+CRUX-IDX is not just a format—it’s a declaration.
+
+It says:
+
+> “This is what I saw.  
+> This is what I trusted.  
+> This is what I chose to ignore.  
+> And here is the fingerprint that proves it.”
+
+* * *
