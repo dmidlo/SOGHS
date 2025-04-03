@@ -1,4 +1,4 @@
-# **CRUX-EJECT Specification v1.0 (Draft)**  
+# **CRUX-EJECT Specification v1.0**  
 A deterministic, postorder emission format for projection-based object graph identity in CRUX and SOGHS systems.
 
 ---
